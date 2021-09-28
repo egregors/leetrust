@@ -14,6 +14,7 @@
 pub struct Solution {}
 
 impl Solution {
+    #[allow(dead_code)]
     pub fn kids_with_candies(candies: Vec<i32>, extra_candies: i32) -> Vec<bool> {
         let mut res: Vec<bool> = vec![];
         let max: i32 = candies.iter().max().unwrap().clone();
