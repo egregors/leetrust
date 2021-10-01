@@ -11,6 +11,7 @@
  *
  * Note that multiple kids can have the greatest number of candies.
  */
+
 pub struct Solution {}
 
 impl Solution {

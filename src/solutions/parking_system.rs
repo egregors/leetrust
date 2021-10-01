@@ -13,6 +13,7 @@
  *    represented by 1, 2, and 3 respectively. A car can only park in a parking space of its carType.
  *    If there is no space available, return false, else park the car in that size space and return true.
 */
+
 #[allow(dead_code)]
 struct ParkingSystem {
     big: i32,
@@ -25,9 +26,11 @@ struct ParkingSystem {
  * If you need a mutable reference, change it to `&mut self` instead.
  */
 impl ParkingSystem {
+    #[allow(dead_code)]
     fn new(big: i32, medium: i32, small: i32) -> Self {
         Self { big, medium, small }
     }
+    #[allow(dead_code)]
     fn add_car(&mut self, car_type: i32) -> bool {
         let res: bool;
         match car_type {
