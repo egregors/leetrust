@@ -1,5 +1,5 @@
 mod solutions;
 
 fn main() {
-    print!("LeetCode solutions. Check src/solution/*");
+    print!("LeetCode solutions. Check src/solutions/*");
 }

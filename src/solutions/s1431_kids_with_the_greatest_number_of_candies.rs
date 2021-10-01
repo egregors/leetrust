@@ -10,7 +10,7 @@
  * all the kids, or false otherwise.
  *
  * Note that multiple kids can have the greatest number of candies.
- */
+ **/
 
 pub struct Solution {}
 

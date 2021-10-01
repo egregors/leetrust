@@ -13,9 +13,11 @@
  * 
  **/
 
+#[allow(dead_code)]
 struct Solution {}
 
 impl Solution {
+    #[allow(dead_code)]
     pub fn decode(encoded: Vec<i32>, first: i32) -> Vec<i32> {
         let mut decoded = vec![first];
         for i in 0..encoded.len() {

@@ -1,4 +1,4 @@
-mod kids_with_candies;
-mod num_identical_pairs;
-mod parking_system;
-mod decode_xored_array;
+mod s1431_kids_with_the_greatest_number_of_candies;
+mod s1512_number_of_good_pairs;
+mod s1603_design_parking_system;
+mod s1720_decode_xored_array;
