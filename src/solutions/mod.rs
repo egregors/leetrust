@@ -2,3 +2,4 @@ mod s1431_kids_with_the_greatest_number_of_candies;
 mod s1512_number_of_good_pairs;
 mod s1603_design_parking_system;
 mod s1720_decode_xored_array;
+mod s1365_smaller_numbers_than_current;
