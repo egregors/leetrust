@@ -1,3 +1,4 @@
+mod s0771_num_jewels_in_stones;
 mod s1365_smaller_numbers_than_current;
 mod s1431_kids_with_the_greatest_number_of_candies;
 mod s1476_subrectangle_queries;
