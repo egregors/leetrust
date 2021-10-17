@@ -6,3 +6,4 @@ mod s1512_number_of_good_pairs;
 mod s1603_design_parking_system;
 mod s1720_decode_xored_array;
 mod s1528_restore_string;
+mod s0001_two_sum;
