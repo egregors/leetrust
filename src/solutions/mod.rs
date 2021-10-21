@@ -8,3 +8,4 @@ mod s1720_decode_xored_array;
 mod s1528_restore_string;
 mod s0001_two_sum;
 mod s1281_subtract_product_and_sum;
+mod s0009_is_palindrome;
